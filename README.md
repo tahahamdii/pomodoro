@@ -1,4 +1,5 @@
 # pomodoro
+![cat image](https://github.com/tahahamdii/pomodoro/blob/main/pomodoro.png)
 
 ## Project setup
 ```
